@@ -5,6 +5,6 @@
 		}
 	],
 	"settings": {
-		"dotnet.defaultSolution": "GoDodoEditor.sln"
+		"dotnet.defaultSolution": "GoDodo.sln"
 	}
 }

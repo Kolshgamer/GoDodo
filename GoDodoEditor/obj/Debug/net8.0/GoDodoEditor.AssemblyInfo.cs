@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GoDodoEditor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+206a2cb40fc1ed4c7e54470066ee4b6e466e16c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd1efb3da6bfd7ca9f6f3bf7f32b83736e5787ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoDodoEditor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GoDodoEditor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
